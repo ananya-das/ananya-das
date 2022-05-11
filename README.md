@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi 👋 My name is Ananya Das
+===========================
 
-<!--
-**ananya-das/ananya-das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML and Data Science enthusiast
+---------------------------------
 
-Here are some ideas to get you started:
+I've been coding since the last 4 years with 1+ year of industry experience. Created multiple projects on AI/ML, Data Science, data Analysis and Full Stack Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in India
+*   🖥️  See my portfolio at [https://www.linkedin.com/in/ananya-das-461a81187/](http://www.linkedin.com/in/ananya-das-461a81187/)
+*   ✉️  You can contact me at [anidas789@gmail.com](mailto:anidas789@gmail.com)
+*   🧠  I'm learning Data Science along with Deep Learning concepts.
+*   🤝  I'm open to collaborating on AI/ML, deep learning, data science and analysis projects.
